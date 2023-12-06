@@ -1,0 +1,918 @@
+{
+    "Liberty": {
+        "SoV": 0.443,
+        "SoS": 0.443
+    },
+    "Michigan": {
+        "SoV": 0.525,
+        "SoS": 0.525
+    },
+    "Washington": {
+        "SoV": 0.547,
+        "SoS": 0.547
+    },
+    "Florida State": {
+        "SoV": 0.506,
+        "SoS": 0.506
+    },
+    "Texas": {
+        "SoV": 0.554,
+        "SoS": 0.575
+    },
+    "Georgia": {
+        "SoV": 0.503,
+        "SoS": 0.541
+    },
+    "Alabama": {
+        "SoV": 0.582,
+        "SoS": 0.612
+    },
+    "Miami (OH)": {
+        "SoV": 0.382,
+        "SoS": 0.439
+    },
+    "SMU": {
+        "SoV": 0.426,
+        "SoS": 0.458
+    },
+    "Oregon": {
+        "SoV": 0.447,
+        "SoS": 0.543
+    },
+    "Ohio State": {
+        "SoV": 0.512,
+        "SoS": 0.559
+    },
+    "James Madison": {
+        "SoV": 0.491,
+        "SoS": 0.503
+    },
+    "Troy": {
+        "SoV": 0.459,
+        "SoS": 0.513
+    },
+    "Toledo": {
+        "SoV": 0.455,
+        "SoS": 0.486
+    },
+    "Tulane": {
+        "SoV": 0.418,
+        "SoS": 0.489
+    },
+    "New Mexico State": {
+        "SoV": 0.385,
+        "SoS": 0.475
+    },
+    "Missouri": {
+        "SoV": 0.477,
+        "SoS": 0.544
+    },
+    "Louisville": {
+        "SoV": 0.509,
+        "SoS": 0.537
+    },
+    "Iowa": {
+        "SoV": 0.458,
+        "SoS": 0.528
+    },
+    "Oklahoma": {
+        "SoV": 0.549,
+        "SoS": 0.571
+    },
+    "Ole Miss": {
+        "SoV": 0.472,
+        "SoS": 0.558
+    },
+    "Penn State": {
+        "SoV": 0.481,
+        "SoS": 0.57
+    },
+    "Notre Dame": {
+        "SoV": 0.453,
+        "SoS": 0.544
+    },
+    "Ohio": {
+        "SoV": 0.336,
+        "SoS": 0.4
+    },
+    "NC State": {
+        "SoV": 0.463,
+        "SoS": 0.529
+    },
+    "UNLV": {
+        "SoV": 0.377,
+        "SoS": 0.493
+    },
+    "Oklahoma State": {
+        "SoV": 0.505,
+        "SoS": 0.547
+    },
+    "Memphis": {
+        "SoV": 0.414,
+        "SoS": 0.532
+    },
+    "Arizona": {
+        "SoV": 0.422,
+        "SoS": 0.492
+    },
+    "LSU": {
+        "SoV": 0.494,
+        "SoS": 0.614
+    },
+    "Jacksonville State": {
+        "SoV": 0.352,
+        "SoS": 0.477
+    },
+    "Utah": {
+        "SoV": 0.411,
+        "SoS": 0.562
+    },
+    "Kansas": {
+        "SoV": 0.447,
+        "SoS": 0.54
+    },
+    "Fresno State": {
+        "SoV": 0.379,
+        "SoS": 0.414
+    },
+    "Tennessee": {
+        "SoV": 0.411,
+        "SoS": 0.548
+    },
+    "Air Force": {
+        "SoV": 0.458,
+        "SoS": 0.485
+    },
+    "Boise State": {
+        "SoV": 0.534,
+        "SoS": 0.591
+    },
+    "Appalachian State": {
+        "SoV": 0.418,
+        "SoS": 0.517
+    },
+    "UT San Antonio": {
+        "SoV": 0.385,
+        "SoS": 0.448
+    },
+    "Kansas State": {
+        "SoV": 0.5,
+        "SoS": 0.595
+    },
+    "Wyoming": {
+        "SoV": 0.431,
+        "SoS": 0.539
+    },
+    "West Virginia": {
+        "SoV": 0.36,
+        "SoS": 0.474
+    },
+    "North Carolina": {
+        "SoV": 0.476,
+        "SoS": 0.5
+    },
+    "Oregon State": {
+        "SoV": 0.458,
+        "SoS": 0.57
+    },
+    "Clemson": {
+        "SoV": 0.494,
+        "SoS": 0.582
+    },
+    "USC": {
+        "SoV": 0.404,
+        "SoS": 0.561
+    },
+    "San José State": {
+        "SoV": 0.48,
+        "SoS": 0.569
+    },
+    "Miami": {
+        "SoV": 0.506,
+        "SoS": 0.613
+    },
+    "Kentucky": {
+        "SoV": 0.373,
+        "SoS": 0.547
+    },
+    "Bowling Green": {
+        "SoV": 0.273,
+        "SoS": 0.562
+    },
+    "Iowa State": {
+        "SoV": 0.445,
+        "SoS": 0.602
+    },
+    "Maryland": {
+        "SoV": 0.328,
+        "SoS": 0.522
+    },
+    "Wisconsin": {
+        "SoV": 0.404,
+        "SoS": 0.482
+    },
+    "Western Kentucky": {
+        "SoV": 0.315,
+        "SoS": 0.554
+    },
+    "Texas A&M": {
+        "SoV": 0.351,
+        "SoS": 0.533
+    },
+    "Texas State": {
+        "SoV": 0.301,
+        "SoS": 0.447
+    },
+    "UCLA": {
+        "SoV": 0.41,
+        "SoS": 0.481
+    },
+    "Coastal Carolina": {
+        "SoV": 0.546,
+        "SoS": 0.562
+    },
+    "Northwestern": {
+        "SoV": 0.418,
+        "SoS": 0.511
+    },
+    "Duke": {
+        "SoV": 0.465,
+        "SoS": 0.57
+    },
+    "Navy": {
+        "SoV": 0.306,
+        "SoS": 0.481
+    },
+    "UCF": {
+        "SoV": 0.396,
+        "SoS": 0.503
+    },
+    "Georgia State": {
+        "SoV": 0.409,
+        "SoS": 0.562
+    },
+    "Eastern Michigan": {
+        "SoV": 0.209,
+        "SoS": 0.385
+    },
+    "Georgia Tech": {
+        "SoV": 0.451,
+        "SoS": 0.595
+    },
+    "Utah State": {
+        "SoV": 0.29,
+        "SoS": 0.514
+    },
+    "Boston College": {
+        "SoV": 0.37,
+        "SoS": 0.5
+    },
+    "Northern Illinois": {
+        "SoV": 0.388,
+        "SoS": 0.432
+    },
+    "Arkansas State": {
+        "SoV": 0.344,
+        "SoS": 0.522
+    },
+    "Auburn": {
+        "SoV": 0.327,
+        "SoS": 0.583
+    },
+    "South Florida": {
+        "SoV": 0.344,
+        "SoS": 0.485
+    },
+    "Rice": {
+        "SoV": 0.274,
+        "SoS": 0.496
+    },
+    "Syracuse": {
+        "SoV": 0.327,
+        "SoS": 0.5
+    },
+    "California": {
+        "SoV": 0.387,
+        "SoS": 0.566
+    },
+    "Marshall": {
+        "SoV": 0.419,
+        "SoS": 0.54
+    },
+    "Georgia Southern": {
+        "SoV": 0.377,
+        "SoS": 0.507
+    },
+    "Texas Tech": {
+        "SoV": 0.426,
+        "SoS": 0.577
+    },
+    "Louisiana": {
+        "SoV": 0.354,
+        "SoS": 0.437
+    },
+    "South Alabama": {
+        "SoV": 0.412,
+        "SoS": 0.562
+    },
+    "Virginia Tech": {
+        "SoV": 0.388,
+        "SoS": 0.52
+    },
+    "Old Dominion": {
+        "SoV": 0.467,
+        "SoS": 0.562
+    },
+    "Rutgers": {
+        "SoV": 0.37,
+        "SoS": 0.595
+    },
+    "Hawai'i": {
+        "SoV": 0.48,
+        "SoS": 0.486
+    },
+    "Florida": {
+        "SoV": 0.367,
+        "SoS": 0.6
+    },
+    "Minnesota": {
+        "SoV": 0.508,
+        "SoS": 0.589
+    },
+    "Nebraska": {
+        "SoV": 0.416,
+        "SoS": 0.513
+    },
+    "Central Michigan": {
+        "SoV": 0.408,
+        "SoS": 0.477
+    },
+    "TCU": {
+        "SoV": 0.45,
+        "SoS": 0.573
+    },
+    "North Texas": {
+        "SoV": 0.28,
+        "SoS": 0.507
+    },
+    "Mississippi State": {
+        "SoV": 0.4,
+        "SoS": 0.562
+    },
+    "Colorado State": {
+        "SoV": 0.36,
+        "SoS": 0.463
+    },
+    "Washington State": {
+        "SoV": 0.489,
+        "SoS": 0.562
+    },
+    "Army": {
+        "SoV": 0.575,
+        "SoS": 0.528
+    },
+    "Illinois": {
+        "SoV": 0.491,
+        "SoS": 0.554
+    },
+    "South Carolina": {
+        "SoV": 0.448,
+        "SoS": 0.597
+    },
+    "BYU": {
+        "SoV": 0.32,
+        "SoS": 0.551
+    },
+    "San Diego State": {
+        "SoV": 0.564,
+        "SoS": 0.536
+    },
+    "Florida International": {
+        "SoV": 0.297,
+        "SoS": 0.463
+    },
+    "Western Michigan": {
+        "SoV": 0.405,
+        "SoS": 0.588
+    },
+    "Wake Forest": {
+        "SoV": 0.297,
+        "SoS": 0.559
+    },
+    "Tulsa": {
+        "SoV": 0.297,
+        "SoS": 0.544
+    },
+    "UAB": {
+        "SoV": 0.351,
+        "SoS": 0.562
+    },
+    "Michigan State": {
+        "SoV": 0.351,
+        "SoS": 0.647
+    },
+    "Ball State": {
+        "SoV": 0.315,
+        "SoS": 0.554
+    },
+    "Purdue": {
+        "SoV": 0.395,
+        "SoS": 0.589
+    },
+    "Colorado": {
+        "SoV": 0.375,
+        "SoS": 0.524
+    },
+    "Arkansas": {
+        "SoV": 0.27,
+        "SoS": 0.552
+    },
+    "Florida Atlantic": {
+        "SoV": 0.351,
+        "SoS": 0.492
+    },
+    "New Mexico": {
+        "SoV": 0.421,
+        "SoS": 0.528
+    },
+    "Houston": {
+        "SoV": 0.458,
+        "SoS": 0.527
+    },
+    "Middle Tennessee": {
+        "SoV": 0.263,
+        "SoS": 0.565
+    },
+    "UTEP": {
+        "SoV": 0.28,
+        "SoS": 0.562
+    },
+    "UMass": {
+        "SoV": 0.555,
+        "SoS": 0.615
+    },
+    "Louisiana Tech": {
+        "SoV": 0.269,
+        "SoS": 0.528
+    },
+    "Connecticut": {
+        "SoV": 0.36,
+        "SoS": 0.541
+    },
+    "Arizona State": {
+        "SoV": 0.461,
+        "SoS": 0.635
+    },
+    "Stanford": {
+        "SoV": 0.378,
+        "SoS": 0.625
+    },
+    "Virginia": {
+        "SoV": 0.6,
+        "SoS": 0.634
+    },
+    "Temple": {
+        "SoV": 0.32,
+        "SoS": 0.507
+    },
+    "Indiana": {
+        "SoV": 0.346,
+        "SoS": 0.58
+    },
+    "Buffalo": {
+        "SoV": 0.222,
+        "SoS": 0.58
+    },
+    "Pittsburgh": {
+        "SoV": 0.615,
+        "SoS": 0.592
+    },
+    "Cincinnati": {
+        "SoV": 0.269,
+        "SoS": 0.544
+    },
+    "Charlotte": {
+        "SoV": 0.23,
+        "SoS": 0.488
+    },
+    "Southern Mississippi": {
+        "SoV": 0.32,
+        "SoS": 0.591
+    },
+    "Baylor": {
+        "SoV": 0.346,
+        "SoS": 0.548
+    },
+    "Sam Houston State": {
+        "SoV": 0.28,
+        "SoS": 0.507
+    },
+    "Vanderbilt": {
+        "SoV": 0.357,
+        "SoS": 0.595
+    },
+    "East Carolina": {
+        "SoV": 0.285,
+        "SoS": 0.579
+    },
+    "Akron": {
+        "SoV": 0.076,
+        "SoS": 0.455
+    },
+    "Nevada": {
+        "SoV": 0.333,
+        "SoS": 0.529
+    },
+    "Louisiana Monroe": {
+        "SoV": 0.384,
+        "SoS": 0.555
+    },
+    "Kent State": {
+        "SoV": 0,
+        "SoS": 0.492
+    },
+    "Southern Illinois": {
+        "SoV": 0.5,
+        "SoS": 0.5
+    },
+    "Fordham": {
+        "SoV": 0.25,
+        "SoS": 0.25
+    },
+    "Idaho": {
+        "SoV": 0.166,
+        "SoS": 0.333
+    },
+    "Sacramento State": {
+        "SoV": 0.25,
+        "SoS": 0.25
+    },
+    "St Francis (PA)": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "Elon": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "Rhode Island": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "South Dakota": {
+        "SoV": 0,
+        "SoS": 0.833
+    },
+    "Arkansas-Pine Bluff": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "North Carolina A&T": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "Southern Utah": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "Howard": {
+        "SoV": 0,
+        "SoS": 0.541
+    },
+    "Missouri State": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Robert Morris": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Long Island University": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Northern Iowa": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Mercer": {
+        "SoV": 0,
+        "SoS": 0.833
+    },
+    "East Tennessee State": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Portland State": {
+        "SoV": 0,
+        "SoS": 0.76
+    },
+    "Towson": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Tennessee State": {
+        "SoV": 0,
+        "SoS": 0.75
+    },
+    "Wofford": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "Gardner-Webb": {
+        "SoV": 0,
+        "SoS": 0.4
+    },
+    "Eastern Kentucky": {
+        "SoV": 0,
+        "SoS": 0.416
+    },
+    "Colgate": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Southeastern Louisiana": {
+        "SoV": 0,
+        "SoS": 0.458
+    },
+    "Bryant": {
+        "SoV": 0,
+        "SoS": 0.692
+    },
+    "Western Carolina": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "UT Martin": {
+        "SoV": 0,
+        "SoS": 0.923
+    },
+    "Monmouth": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "South Carolina State": {
+        "SoV": 0,
+        "SoS": 0.375
+    },
+    "Albany": {
+        "SoV": 0,
+        "SoS": 0.44
+    },
+    "Bucknell": {
+        "SoV": 0,
+        "SoS": 0.916
+    },
+    "The Citadel": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Maine": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "Central Arkansas": {
+        "SoV": 0,
+        "SoS": 0.692
+    },
+    "Stephen F. Austin": {
+        "SoV": 0,
+        "SoS": 0.846
+    },
+    "Alabama A&M": {
+        "SoV": 0,
+        "SoS": 0.166
+    },
+    "Alcorn State": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "Bethune-Cookman": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Southeast Missouri State": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Northwestern State": {
+        "SoV": 0,
+        "SoS": 0.375
+    },
+    "Incarnate Word": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "Western Illinois": {
+        "SoV": 0,
+        "SoS": 0.714
+    },
+    "Northern Arizona": {
+        "SoV": 0,
+        "SoS": 0.75
+    },
+    "Idaho State": {
+        "SoV": 0,
+        "SoS": 0.416
+    },
+    "Murray State": {
+        "SoV": 0,
+        "SoS": 0.56
+    },
+    "Indiana State": {
+        "SoV": 0,
+        "SoS": 0.291
+    },
+    "Holy Cross": {
+        "SoV": 0,
+        "SoS": 0.458
+    },
+    "Delaware": {
+        "SoV": 0,
+        "SoS": 0.833
+    },
+    "Youngstown State": {
+        "SoV": 0,
+        "SoS": 0.916
+    },
+    "Delaware State": {
+        "SoV": 0,
+        "SoS": 0.64
+    },
+    "New Hampshire": {
+        "SoV": 0,
+        "SoS": 0.416
+    },
+    "Eastern Illinois": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Charleston Southern": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Texas Southern": {
+        "SoV": 0,
+        "SoS": 0.68
+    },
+    "Wagner": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Richmond": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "Cal Poly": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Austin Peay": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Duquesne": {
+        "SoV": 0,
+        "SoS": 0.625
+    },
+    "Lafayette": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Morgan State": {
+        "SoV": 0,
+        "SoS": 0.166
+    },
+    "Houston Christian": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Florida A&M": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "McNeese": {
+        "SoV": 0,
+        "SoS": 0.416
+    },
+    "Furman": {
+        "SoV": 0,
+        "SoS": 0.416
+    },
+    "Grambling": {
+        "SoV": 0,
+        "SoS": 0.75
+    },
+    "Nicholls": {
+        "SoV": 0,
+        "SoS": 0.64
+    },
+    "Lamar": {
+        "SoV": 0,
+        "SoS": 0.166
+    },
+    "Tennessee Tech": {
+        "SoV": 0,
+        "SoS": 0.333
+    },
+    "Eastern Washington": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "UC Davis": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Central Connecticut": {
+        "SoV": 0,
+        "SoS": 0.083
+    },
+    "North Dakota": {
+        "SoV": 0,
+        "SoS": 0.615
+    },
+    "Norfolk State": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "VMI": {
+        "SoV": 0,
+        "SoS": 0.75
+    },
+    "Weber State": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Northern Colorado": {
+        "SoV": 0,
+        "SoS": 0.416
+    },
+    "North Carolina Central": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Villanova": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Prairie View": {
+        "SoV": 0,
+        "SoS": 0.846
+    },
+    "Tarleton State": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Stony Brook": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Samford": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Jackson State": {
+        "SoV": 0,
+        "SoS": 0.583
+    },
+    "Texas A&M-Commerce": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "Utah Tech": {
+        "SoV": 0,
+        "SoS": 0.416
+    },
+    "Abilene Christian": {
+        "SoV": 0,
+        "SoS": 0.5
+    },
+    "William & Mary": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "Campbell": {
+        "SoV": 0,
+        "SoS": 0.666
+    },
+    "Kennesaw State": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "Merrimack": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "Chattanooga": {
+        "SoV": 0,
+        "SoS": 0.923
+    },
+    "Sacred Heart": {
+        "SoV": 0,
+        "SoS": 0.25
+    },
+    "North Alabama": {
+        "SoV": 0,
+        "SoS": 1
+    }
+}

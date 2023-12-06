@@ -1,0 +1,3013 @@
+{
+    "Liberty": {
+        "wins": [
+            "Bowling Green",
+            "New Mexico State",
+            "Buffalo",
+            "Florida International",
+            "Sam Houston State",
+            "Jacksonville State",
+            "Middle Tennessee",
+            "Western Kentucky",
+            "Louisiana Tech",
+            "Old Dominion",
+            "UMass",
+            "UTEP",
+            "New Mexico State"
+        ],
+        "losses": []
+    },
+    "Michigan": {
+        "wins": [
+            "East Carolina",
+            "UNLV",
+            "Bowling Green",
+            "Rutgers",
+            "Nebraska",
+            "Minnesota",
+            "Indiana",
+            "Michigan State",
+            "Purdue",
+            "Penn State",
+            "Maryland",
+            "Ohio State",
+            "Iowa"
+        ],
+        "losses": []
+    },
+    "Washington": {
+        "wins": [
+            "Boise State",
+            "Tulsa",
+            "Michigan State",
+            "California",
+            "Arizona",
+            "Oregon",
+            "Arizona State",
+            "Stanford",
+            "USC",
+            "Utah",
+            "Oregon State",
+            "Washington State",
+            "Oregon"
+        ],
+        "losses": []
+    },
+    "Florida State": {
+        "wins": [
+            "LSU",
+            "Southern Mississippi",
+            "Boston College",
+            "Clemson",
+            "Virginia Tech",
+            "Syracuse",
+            "Duke",
+            "Wake Forest",
+            "Pittsburgh",
+            "Miami",
+            "North Alabama",
+            "Florida",
+            "Louisville"
+        ],
+        "losses": []
+    },
+    "Texas": {
+        "wins": [
+            "Rice",
+            "Alabama",
+            "Wyoming",
+            "Baylor",
+            "Kansas",
+            "Houston",
+            "BYU",
+            "Kansas State",
+            "TCU",
+            "Iowa State",
+            "Texas Tech",
+            "Oklahoma State"
+        ],
+        "losses": [
+            "Oklahoma"
+        ]
+    },
+    "Georgia": {
+        "wins": [
+            "UT Martin",
+            "Ball State",
+            "South Carolina",
+            "UAB",
+            "Auburn",
+            "Kentucky",
+            "Vanderbilt",
+            "Florida",
+            "Missouri",
+            "Ole Miss",
+            "Tennessee",
+            "Georgia Tech"
+        ],
+        "losses": [
+            "Alabama"
+        ]
+    },
+    "Alabama": {
+        "wins": [
+            "Middle Tennessee",
+            "South Florida",
+            "Ole Miss",
+            "Mississippi State",
+            "Texas A&M",
+            "Arkansas",
+            "Tennessee",
+            "LSU",
+            "Kentucky",
+            "Chattanooga",
+            "Auburn",
+            "Georgia"
+        ],
+        "losses": [
+            "Texas"
+        ]
+    },
+    "Miami (OH)": {
+        "wins": [
+            "UMass",
+            "Cincinnati",
+            "Delaware State",
+            "Kent State",
+            "Bowling Green",
+            "Western Michigan",
+            "Ohio",
+            "Akron",
+            "Buffalo",
+            "Ball State",
+            "Toledo"
+        ],
+        "losses": [
+            "Miami",
+            "Toledo"
+        ]
+    },
+    "SMU": {
+        "wins": [
+            "Louisiana Tech",
+            "Prairie View",
+            "Charlotte",
+            "East Carolina",
+            "Temple",
+            "Tulsa",
+            "Rice",
+            "North Texas",
+            "Memphis",
+            "Navy",
+            "Tulane"
+        ],
+        "losses": [
+            "Oklahoma",
+            "TCU"
+        ]
+    },
+    "Oregon": {
+        "wins": [
+            "Portland State",
+            "Texas Tech",
+            "Hawai'i",
+            "Colorado",
+            "Stanford",
+            "Washington State",
+            "Utah",
+            "California",
+            "USC",
+            "Arizona State",
+            "Oregon State"
+        ],
+        "losses": [
+            "Washington",
+            "Washington"
+        ]
+    },
+    "Ohio State": {
+        "wins": [
+            "Indiana",
+            "Youngstown State",
+            "Western Kentucky",
+            "Notre Dame",
+            "Maryland",
+            "Purdue",
+            "Penn State",
+            "Wisconsin",
+            "Rutgers",
+            "Michigan State",
+            "Minnesota"
+        ],
+        "losses": [
+            "Michigan"
+        ]
+    },
+    "James Madison": {
+        "wins": [
+            "Bucknell",
+            "Virginia",
+            "Troy",
+            "Utah State",
+            "South Alabama",
+            "Georgia Southern",
+            "Marshall",
+            "Old Dominion",
+            "Georgia State",
+            "Connecticut",
+            "Coastal Carolina"
+        ],
+        "losses": [
+            "Appalachian State"
+        ]
+    },
+    "Troy": {
+        "wins": [
+            "Stephen F. Austin",
+            "Western Kentucky",
+            "Georgia State",
+            "Arkansas State",
+            "Army",
+            "Texas State",
+            "South Alabama",
+            "Louisiana Monroe",
+            "Louisiana",
+            "Southern Mississippi",
+            "Appalachian State"
+        ],
+        "losses": [
+            "Kansas State",
+            "James Madison"
+        ]
+    },
+    "Toledo": {
+        "wins": [
+            "Texas Southern",
+            "San José State",
+            "Western Michigan",
+            "Northern Illinois",
+            "UMass",
+            "Ball State",
+            "Miami (OH)",
+            "Buffalo",
+            "Eastern Michigan",
+            "Bowling Green",
+            "Central Michigan"
+        ],
+        "losses": [
+            "Illinois",
+            "Miami (OH)"
+        ]
+    },
+    "Tulane": {
+        "wins": [
+            "South Alabama",
+            "Southern Mississippi",
+            "Nicholls",
+            "UAB",
+            "Memphis",
+            "North Texas",
+            "Rice",
+            "East Carolina",
+            "Tulsa",
+            "Florida Atlantic",
+            "UT San Antonio"
+        ],
+        "losses": [
+            "Ole Miss",
+            "SMU"
+        ]
+    },
+    "New Mexico State": {
+        "wins": [
+            "Western Illinois",
+            "New Mexico",
+            "Florida International",
+            "Sam Houston State",
+            "UTEP",
+            "Louisiana Tech",
+            "Middle Tennessee",
+            "Western Kentucky",
+            "Auburn",
+            "Jacksonville State"
+        ],
+        "losses": [
+            "UMass",
+            "Liberty",
+            "Hawai'i",
+            "Liberty"
+        ]
+    },
+    "Missouri": {
+        "wins": [
+            "South Dakota",
+            "Middle Tennessee",
+            "Kansas State",
+            "Memphis",
+            "Vanderbilt",
+            "Kentucky",
+            "South Carolina",
+            "Tennessee",
+            "Florida",
+            "Arkansas"
+        ],
+        "losses": [
+            "LSU",
+            "Georgia"
+        ]
+    },
+    "Louisville": {
+        "wins": [
+            "Georgia Tech",
+            "Murray State",
+            "Indiana",
+            "Boston College",
+            "NC State",
+            "Notre Dame",
+            "Duke",
+            "Virginia Tech",
+            "Virginia",
+            "Miami"
+        ],
+        "losses": [
+            "Pittsburgh",
+            "Kentucky",
+            "Florida State"
+        ]
+    },
+    "Iowa": {
+        "wins": [
+            "Utah State",
+            "Iowa State",
+            "Western Michigan",
+            "Michigan State",
+            "Purdue",
+            "Wisconsin",
+            "Northwestern",
+            "Rutgers",
+            "Illinois",
+            "Nebraska"
+        ],
+        "losses": [
+            "Penn State",
+            "Minnesota",
+            "Michigan"
+        ]
+    },
+    "Oklahoma": {
+        "wins": [
+            "Arkansas State",
+            "SMU",
+            "Tulsa",
+            "Cincinnati",
+            "Iowa State",
+            "Texas",
+            "UCF",
+            "West Virginia",
+            "BYU",
+            "TCU"
+        ],
+        "losses": [
+            "Kansas",
+            "Oklahoma State"
+        ]
+    },
+    "Ole Miss": {
+        "wins": [
+            "Mercer",
+            "Tulane",
+            "Georgia Tech",
+            "LSU",
+            "Arkansas",
+            "Auburn",
+            "Vanderbilt",
+            "Texas A&M",
+            "Louisiana Monroe",
+            "Mississippi State"
+        ],
+        "losses": [
+            "Alabama",
+            "Georgia"
+        ]
+    },
+    "Penn State": {
+        "wins": [
+            "West Virginia",
+            "Delaware",
+            "Illinois",
+            "Iowa",
+            "Northwestern",
+            "UMass",
+            "Indiana",
+            "Maryland",
+            "Rutgers",
+            "Michigan State"
+        ],
+        "losses": [
+            "Ohio State",
+            "Michigan"
+        ]
+    },
+    "Notre Dame": {
+        "wins": [
+            "Navy",
+            "Tennessee State",
+            "NC State",
+            "Central Michigan",
+            "Duke",
+            "USC",
+            "Pittsburgh",
+            "Wake Forest",
+            "Stanford"
+        ],
+        "losses": [
+            "Ohio State",
+            "Louisville",
+            "Clemson"
+        ]
+    },
+    "Ohio": {
+        "wins": [
+            "Long Island University",
+            "Florida Atlantic",
+            "Iowa State",
+            "Bowling Green",
+            "Kent State",
+            "Western Michigan",
+            "Buffalo",
+            "Central Michigan",
+            "Akron"
+        ],
+        "losses": [
+            "San Diego State",
+            "Northern Illinois",
+            "Miami (OH)"
+        ]
+    },
+    "NC State": {
+        "wins": [
+            "Connecticut",
+            "VMI",
+            "Virginia",
+            "Marshall",
+            "Clemson",
+            "Miami",
+            "Wake Forest",
+            "Virginia Tech",
+            "North Carolina"
+        ],
+        "losses": [
+            "Notre Dame",
+            "Louisville",
+            "Duke"
+        ]
+    },
+    "UNLV": {
+        "wins": [
+            "Bryant",
+            "Vanderbilt",
+            "UTEP",
+            "Hawai'i",
+            "Nevada",
+            "Colorado State",
+            "New Mexico",
+            "Wyoming",
+            "Air Force"
+        ],
+        "losses": [
+            "Michigan",
+            "Fresno State",
+            "San José State",
+            "Boise State"
+        ]
+    },
+    "Oklahoma State": {
+        "wins": [
+            "Central Arkansas",
+            "Arizona State",
+            "Kansas State",
+            "Kansas",
+            "West Virginia",
+            "Cincinnati",
+            "Oklahoma",
+            "Houston",
+            "BYU"
+        ],
+        "losses": [
+            "South Alabama",
+            "Iowa State",
+            "UCF",
+            "Texas"
+        ]
+    },
+    "Memphis": {
+        "wins": [
+            "Bethune-Cookman",
+            "Arkansas State",
+            "Navy",
+            "Boise State",
+            "UAB",
+            "North Texas",
+            "South Florida",
+            "Charlotte",
+            "Temple"
+        ],
+        "losses": [
+            "Missouri",
+            "Tulane",
+            "SMU"
+        ]
+    },
+    "Arizona": {
+        "wins": [
+            "Northern Arizona",
+            "UTEP",
+            "Stanford",
+            "Washington State",
+            "Oregon State",
+            "UCLA",
+            "Colorado",
+            "Utah",
+            "Arizona State"
+        ],
+        "losses": [
+            "Mississippi State",
+            "Washington",
+            "USC"
+        ]
+    },
+    "LSU": {
+        "wins": [
+            "Grambling",
+            "Mississippi State",
+            "Arkansas",
+            "Missouri",
+            "Auburn",
+            "Army",
+            "Florida",
+            "Georgia State",
+            "Texas A&M"
+        ],
+        "losses": [
+            "Florida State",
+            "Ole Miss",
+            "Alabama"
+        ]
+    },
+    "Jacksonville State": {
+        "wins": [
+            "UTEP",
+            "East Tennessee State",
+            "Eastern Michigan",
+            "Sam Houston State",
+            "Middle Tennessee",
+            "Western Kentucky",
+            "Florida International",
+            "Louisiana Tech"
+        ],
+        "losses": [
+            "Coastal Carolina",
+            "Liberty",
+            "South Carolina",
+            "New Mexico State"
+        ]
+    },
+    "Utah": {
+        "wins": [
+            "Florida",
+            "Baylor",
+            "Weber State",
+            "UCLA",
+            "California",
+            "USC",
+            "Arizona State",
+            "Colorado"
+        ],
+        "losses": [
+            "Oregon State",
+            "Oregon",
+            "Washington",
+            "Arizona"
+        ]
+    },
+    "Kansas": {
+        "wins": [
+            "Missouri State",
+            "Illinois",
+            "Nevada",
+            "BYU",
+            "UCF",
+            "Oklahoma",
+            "Iowa State",
+            "Cincinnati"
+        ],
+        "losses": [
+            "Texas",
+            "Oklahoma State",
+            "Texas Tech",
+            "Kansas State"
+        ]
+    },
+    "Fresno State": {
+        "wins": [
+            "Purdue",
+            "Eastern Washington",
+            "Arizona State",
+            "Kent State",
+            "Nevada",
+            "Utah State",
+            "UNLV",
+            "Boise State"
+        ],
+        "losses": [
+            "Wyoming",
+            "San José State",
+            "New Mexico",
+            "San Diego State"
+        ]
+    },
+    "Tennessee": {
+        "wins": [
+            "Virginia",
+            "Austin Peay",
+            "UT San Antonio",
+            "South Carolina",
+            "Texas A&M",
+            "Kentucky",
+            "Connecticut",
+            "Vanderbilt"
+        ],
+        "losses": [
+            "Florida",
+            "Alabama",
+            "Missouri",
+            "Georgia"
+        ]
+    },
+    "Air Force": {
+        "wins": [
+            "Robert Morris",
+            "Sam Houston State",
+            "Utah State",
+            "San José State",
+            "San Diego State",
+            "Wyoming",
+            "Navy",
+            "Colorado State"
+        ],
+        "losses": [
+            "Army",
+            "Hawai'i",
+            "UNLV",
+            "Boise State"
+        ]
+    },
+    "Boise State": {
+        "wins": [
+            "North Dakota",
+            "San Diego State",
+            "San José State",
+            "Wyoming",
+            "New Mexico",
+            "Utah State",
+            "Air Force",
+            "UNLV"
+        ],
+        "losses": [
+            "Washington",
+            "UCF",
+            "Memphis",
+            "Colorado State",
+            "Fresno State"
+        ]
+    },
+    "Appalachian State": {
+        "wins": [
+            "Gardner-Webb",
+            "East Carolina",
+            "Louisiana Monroe",
+            "Southern Mississippi",
+            "Marshall",
+            "Georgia State",
+            "James Madison",
+            "Georgia Southern"
+        ],
+        "losses": [
+            "North Carolina",
+            "Wyoming",
+            "Coastal Carolina",
+            "Old Dominion",
+            "Troy"
+        ]
+    },
+    "UT San Antonio": {
+        "wins": [
+            "Texas State",
+            "Temple",
+            "UAB",
+            "Florida Atlantic",
+            "East Carolina",
+            "North Texas",
+            "Rice",
+            "South Florida"
+        ],
+        "losses": [
+            "Houston",
+            "Army",
+            "Tennessee",
+            "Tulane"
+        ]
+    },
+    "Kansas State": {
+        "wins": [
+            "Southeast Missouri State",
+            "Troy",
+            "UCF",
+            "Texas Tech",
+            "TCU",
+            "Houston",
+            "Baylor",
+            "Kansas"
+        ],
+        "losses": [
+            "Missouri",
+            "Oklahoma State",
+            "Texas",
+            "Iowa State"
+        ]
+    },
+    "Wyoming": {
+        "wins": [
+            "Texas Tech",
+            "Portland State",
+            "Appalachian State",
+            "New Mexico",
+            "Fresno State",
+            "Colorado State",
+            "Hawai'i",
+            "Nevada"
+        ],
+        "losses": [
+            "Texas",
+            "Air Force",
+            "Boise State",
+            "UNLV"
+        ]
+    },
+    "West Virginia": {
+        "wins": [
+            "Duquesne",
+            "Pittsburgh",
+            "Texas Tech",
+            "TCU",
+            "UCF",
+            "BYU",
+            "Cincinnati",
+            "Baylor"
+        ],
+        "losses": [
+            "Penn State",
+            "Houston",
+            "Oklahoma State",
+            "Oklahoma"
+        ]
+    },
+    "North Carolina": {
+        "wins": [
+            "South Carolina",
+            "Appalachian State",
+            "Minnesota",
+            "Pittsburgh",
+            "Syracuse",
+            "Miami",
+            "Campbell",
+            "Duke"
+        ],
+        "losses": [
+            "Virginia",
+            "Georgia Tech",
+            "Clemson",
+            "NC State"
+        ]
+    },
+    "Oregon State": {
+        "wins": [
+            "San José State",
+            "UC Davis",
+            "San Diego State",
+            "Utah",
+            "California",
+            "UCLA",
+            "Colorado",
+            "Stanford"
+        ],
+        "losses": [
+            "Washington State",
+            "Arizona",
+            "Washington",
+            "Oregon"
+        ]
+    },
+    "Clemson": {
+        "wins": [
+            "Charleston Southern",
+            "Florida Atlantic",
+            "Syracuse",
+            "Wake Forest",
+            "Notre Dame",
+            "Georgia Tech",
+            "North Carolina",
+            "South Carolina"
+        ],
+        "losses": [
+            "Duke",
+            "Florida State",
+            "Miami",
+            "NC State"
+        ]
+    },
+    "USC": {
+        "wins": [
+            "San José State",
+            "Nevada",
+            "Stanford",
+            "Arizona State",
+            "Colorado",
+            "Arizona",
+            "California"
+        ],
+        "losses": [
+            "Notre Dame",
+            "Utah",
+            "Washington",
+            "Oregon",
+            "UCLA"
+        ]
+    },
+    "San José State": {
+        "wins": [
+            "Cal Poly",
+            "New Mexico",
+            "Utah State",
+            "Hawai'i",
+            "Fresno State",
+            "San Diego State",
+            "UNLV"
+        ],
+        "losses": [
+            "USC",
+            "Oregon State",
+            "Toledo",
+            "Air Force",
+            "Boise State"
+        ]
+    },
+    "Miami": {
+        "wins": [
+            "Miami (OH)",
+            "Texas A&M",
+            "Bethune-Cookman",
+            "Temple",
+            "Clemson",
+            "Virginia",
+            "Boston College"
+        ],
+        "losses": [
+            "Georgia Tech",
+            "North Carolina",
+            "NC State",
+            "Florida State",
+            "Louisville"
+        ]
+    },
+    "Kentucky": {
+        "wins": [
+            "Ball State",
+            "Eastern Kentucky",
+            "Akron",
+            "Vanderbilt",
+            "Florida",
+            "Mississippi State",
+            "Louisville"
+        ],
+        "losses": [
+            "Georgia",
+            "Missouri",
+            "Tennessee",
+            "Alabama",
+            "South Carolina"
+        ]
+    },
+    "Bowling Green": {
+        "wins": [
+            "Eastern Illinois",
+            "Georgia Tech",
+            "Buffalo",
+            "Akron",
+            "Ball State",
+            "Kent State",
+            "Western Michigan"
+        ],
+        "losses": [
+            "Liberty",
+            "Michigan",
+            "Ohio",
+            "Miami (OH)",
+            "Toledo"
+        ]
+    },
+    "Iowa State": {
+        "wins": [
+            "Northern Iowa",
+            "Oklahoma State",
+            "TCU",
+            "Cincinnati",
+            "Baylor",
+            "BYU",
+            "Kansas State"
+        ],
+        "losses": [
+            "Iowa",
+            "Ohio",
+            "Oklahoma",
+            "Kansas",
+            "Texas"
+        ]
+    },
+    "Maryland": {
+        "wins": [
+            "Towson",
+            "Charlotte",
+            "Virginia",
+            "Michigan State",
+            "Indiana",
+            "Nebraska",
+            "Rutgers"
+        ],
+        "losses": [
+            "Ohio State",
+            "Illinois",
+            "Northwestern",
+            "Penn State",
+            "Michigan"
+        ]
+    },
+    "Wisconsin": {
+        "wins": [
+            "Buffalo",
+            "Georgia Southern",
+            "Purdue",
+            "Rutgers",
+            "Illinois",
+            "Nebraska",
+            "Minnesota"
+        ],
+        "losses": [
+            "Washington State",
+            "Iowa",
+            "Ohio State",
+            "Indiana",
+            "Northwestern"
+        ]
+    },
+    "Western Kentucky": {
+        "wins": [
+            "South Florida",
+            "Houston Christian",
+            "Middle Tennessee",
+            "Louisiana Tech",
+            "UTEP",
+            "Sam Houston State",
+            "Florida International"
+        ],
+        "losses": [
+            "Ohio State",
+            "Troy",
+            "Jacksonville State",
+            "Liberty",
+            "New Mexico State"
+        ]
+    },
+    "Texas A&M": {
+        "wins": [
+            "New Mexico",
+            "Louisiana Monroe",
+            "Auburn",
+            "Arkansas",
+            "South Carolina",
+            "Mississippi State",
+            "Abilene Christian"
+        ],
+        "losses": [
+            "Miami",
+            "Alabama",
+            "Tennessee",
+            "Ole Miss",
+            "LSU"
+        ]
+    },
+    "Texas State": {
+        "wins": [
+            "Baylor",
+            "Jackson State",
+            "Nevada",
+            "Southern Mississippi",
+            "Louisiana Monroe",
+            "Georgia Southern",
+            "South Alabama"
+        ],
+        "losses": [
+            "UT San Antonio",
+            "Louisiana",
+            "Troy",
+            "Coastal Carolina",
+            "Arkansas State"
+        ]
+    },
+    "UCLA": {
+        "wins": [
+            "Coastal Carolina",
+            "San Diego State",
+            "North Carolina Central",
+            "Washington State",
+            "Stanford",
+            "Colorado",
+            "USC"
+        ],
+        "losses": [
+            "Utah",
+            "Oregon State",
+            "Arizona",
+            "Arizona State",
+            "California"
+        ]
+    },
+    "Coastal Carolina": {
+        "wins": [
+            "Jacksonville State",
+            "Duquesne",
+            "Appalachian State",
+            "Arkansas State",
+            "Marshall",
+            "Old Dominion",
+            "Texas State"
+        ],
+        "losses": [
+            "UCLA",
+            "Georgia State",
+            "Georgia Southern",
+            "Army",
+            "James Madison"
+        ]
+    },
+    "Northwestern": {
+        "wins": [
+            "UTEP",
+            "Minnesota",
+            "Howard",
+            "Maryland",
+            "Wisconsin",
+            "Purdue",
+            "Illinois"
+        ],
+        "losses": [
+            "Rutgers",
+            "Duke",
+            "Penn State",
+            "Nebraska",
+            "Iowa"
+        ]
+    },
+    "Duke": {
+        "wins": [
+            "Clemson",
+            "Lafayette",
+            "Northwestern",
+            "Connecticut",
+            "NC State",
+            "Wake Forest",
+            "Pittsburgh"
+        ],
+        "losses": [
+            "Notre Dame",
+            "Florida State",
+            "Louisville",
+            "North Carolina",
+            "Virginia"
+        ]
+    },
+    "Navy": {
+        "wins": [
+            "Wagner",
+            "North Texas",
+            "Charlotte",
+            "UAB",
+            "East Carolina",
+            "Army"
+        ],
+        "losses": [
+            "Notre Dame",
+            "Memphis",
+            "South Florida",
+            "Air Force",
+            "Temple",
+            "SMU"
+        ]
+    },
+    "UCF": {
+        "wins": [
+            "Kent State",
+            "Boise State",
+            "Villanova",
+            "Cincinnati",
+            "Oklahoma State",
+            "Houston"
+        ],
+        "losses": [
+            "Kansas State",
+            "Baylor",
+            "Kansas",
+            "Oklahoma",
+            "West Virginia",
+            "Texas Tech"
+        ]
+    },
+    "Georgia State": {
+        "wins": [
+            "Rhode Island",
+            "Connecticut",
+            "Charlotte",
+            "Coastal Carolina",
+            "Marshall",
+            "Louisiana"
+        ],
+        "losses": [
+            "Troy",
+            "Georgia Southern",
+            "James Madison",
+            "Appalachian State",
+            "LSU",
+            "Old Dominion"
+        ]
+    },
+    "Eastern Michigan": {
+        "wins": [
+            "Howard",
+            "UMass",
+            "Ball State",
+            "Kent State",
+            "Akron",
+            "Buffalo"
+        ],
+        "losses": [
+            "Minnesota",
+            "Jacksonville State",
+            "Central Michigan",
+            "Northern Illinois",
+            "Western Michigan",
+            "Toledo"
+        ]
+    },
+    "Georgia Tech": {
+        "wins": [
+            "South Carolina State",
+            "Wake Forest",
+            "Miami",
+            "North Carolina",
+            "Virginia",
+            "Syracuse"
+        ],
+        "losses": [
+            "Louisville",
+            "Ole Miss",
+            "Bowling Green",
+            "Boston College",
+            "Clemson",
+            "Georgia"
+        ]
+    },
+    "Utah State": {
+        "wins": [
+            "Idaho State",
+            "Connecticut",
+            "Colorado State",
+            "San Diego State",
+            "Nevada",
+            "New Mexico"
+        ],
+        "losses": [
+            "Iowa",
+            "Air Force",
+            "James Madison",
+            "Fresno State",
+            "San José State",
+            "Boise State"
+        ]
+    },
+    "Boston College": {
+        "wins": [
+            "Holy Cross",
+            "Virginia",
+            "Army",
+            "Georgia Tech",
+            "Connecticut",
+            "Syracuse"
+        ],
+        "losses": [
+            "Northern Illinois",
+            "Florida State",
+            "Louisville",
+            "Virginia Tech",
+            "Pittsburgh",
+            "Miami"
+        ]
+    },
+    "Northern Illinois": {
+        "wins": [
+            "Boston College",
+            "Akron",
+            "Ohio",
+            "Eastern Michigan",
+            "Western Michigan",
+            "Kent State"
+        ],
+        "losses": [
+            "Southern Illinois",
+            "Nebraska",
+            "Tulsa",
+            "Toledo",
+            "Central Michigan",
+            "Ball State"
+        ]
+    },
+    "Arkansas State": {
+        "wins": [
+            "Stony Brook",
+            "Southern Mississippi",
+            "UMass",
+            "Louisiana Monroe",
+            "Louisiana",
+            "Texas State"
+        ],
+        "losses": [
+            "Oklahoma",
+            "Memphis",
+            "Troy",
+            "Coastal Carolina",
+            "South Alabama",
+            "Marshall"
+        ]
+    },
+    "Auburn": {
+        "wins": [
+            "UMass",
+            "California",
+            "Samford",
+            "Mississippi State",
+            "Vanderbilt",
+            "Arkansas"
+        ],
+        "losses": [
+            "Texas A&M",
+            "Georgia",
+            "LSU",
+            "Ole Miss",
+            "New Mexico State",
+            "Alabama"
+        ]
+    },
+    "South Florida": {
+        "wins": [
+            "Florida A&M",
+            "Rice",
+            "Navy",
+            "Connecticut",
+            "Temple",
+            "Charlotte"
+        ],
+        "losses": [
+            "Western Kentucky",
+            "Alabama",
+            "UAB",
+            "Florida Atlantic",
+            "Memphis",
+            "UT San Antonio"
+        ]
+    },
+    "Rice": {
+        "wins": [
+            "Houston",
+            "Texas Southern",
+            "East Carolina",
+            "Tulsa",
+            "Charlotte",
+            "Florida Atlantic"
+        ],
+        "losses": [
+            "Texas",
+            "South Florida",
+            "Connecticut",
+            "Tulane",
+            "SMU",
+            "UT San Antonio"
+        ]
+    },
+    "Syracuse": {
+        "wins": [
+            "Colgate",
+            "Western Michigan",
+            "Purdue",
+            "Army",
+            "Pittsburgh",
+            "Wake Forest"
+        ],
+        "losses": [
+            "Clemson",
+            "North Carolina",
+            "Florida State",
+            "Virginia Tech",
+            "Boston College",
+            "Georgia Tech"
+        ]
+    },
+    "California": {
+        "wins": [
+            "North Texas",
+            "Idaho",
+            "Arizona State",
+            "Washington State",
+            "Stanford",
+            "UCLA"
+        ],
+        "losses": [
+            "Auburn",
+            "Washington",
+            "Oregon State",
+            "Utah",
+            "USC",
+            "Oregon"
+        ]
+    },
+    "Marshall": {
+        "wins": [
+            "Albany",
+            "East Carolina",
+            "Virginia Tech",
+            "Old Dominion",
+            "Georgia Southern",
+            "Arkansas State"
+        ],
+        "losses": [
+            "NC State",
+            "Georgia State",
+            "James Madison",
+            "Coastal Carolina",
+            "Appalachian State",
+            "South Alabama"
+        ]
+    },
+    "Georgia Southern": {
+        "wins": [
+            "The Citadel",
+            "UAB",
+            "Ball State",
+            "Coastal Carolina",
+            "Louisiana Monroe",
+            "Georgia State"
+        ],
+        "losses": [
+            "Wisconsin",
+            "James Madison",
+            "Texas State",
+            "Marshall",
+            "Old Dominion",
+            "Appalachian State"
+        ]
+    },
+    "Texas Tech": {
+        "wins": [
+            "Tarleton State",
+            "Houston",
+            "Baylor",
+            "TCU",
+            "Kansas",
+            "UCF"
+        ],
+        "losses": [
+            "Wyoming",
+            "Oregon",
+            "West Virginia",
+            "Kansas State",
+            "BYU",
+            "Texas"
+        ]
+    },
+    "Louisiana": {
+        "wins": [
+            "Northwestern State",
+            "UAB",
+            "Buffalo",
+            "Texas State",
+            "South Alabama",
+            "Louisiana Monroe"
+        ],
+        "losses": [
+            "Old Dominion",
+            "Minnesota",
+            "Georgia State",
+            "Arkansas State",
+            "Southern Mississippi",
+            "Troy"
+        ]
+    },
+    "South Alabama": {
+        "wins": [
+            "Southeastern Louisiana",
+            "Oklahoma State",
+            "Louisiana Monroe",
+            "Southern Mississippi",
+            "Arkansas State",
+            "Marshall"
+        ],
+        "losses": [
+            "Tulane",
+            "Central Michigan",
+            "James Madison",
+            "Louisiana",
+            "Troy",
+            "Texas State"
+        ]
+    },
+    "Virginia Tech": {
+        "wins": [
+            "Old Dominion",
+            "Pittsburgh",
+            "Wake Forest",
+            "Syracuse",
+            "Boston College",
+            "Virginia"
+        ],
+        "losses": [
+            "Purdue",
+            "Rutgers",
+            "Marshall",
+            "Florida State",
+            "Louisville",
+            "NC State"
+        ]
+    },
+    "Old Dominion": {
+        "wins": [
+            "Louisiana",
+            "Texas A&M-Commerce",
+            "Southern Mississippi",
+            "Appalachian State",
+            "Georgia Southern",
+            "Georgia State"
+        ],
+        "losses": [
+            "Virginia Tech",
+            "Wake Forest",
+            "Marshall",
+            "James Madison",
+            "Coastal Carolina",
+            "Liberty"
+        ]
+    },
+    "Rutgers": {
+        "wins": [
+            "Northwestern",
+            "Temple",
+            "Virginia Tech",
+            "Wagner",
+            "Michigan State",
+            "Indiana"
+        ],
+        "losses": [
+            "Michigan",
+            "Wisconsin",
+            "Ohio State",
+            "Iowa",
+            "Penn State",
+            "Maryland"
+        ]
+    },
+    "Hawai'i": {
+        "wins": [
+            "Albany",
+            "New Mexico State",
+            "Nevada",
+            "Air Force",
+            "Colorado State"
+        ],
+        "losses": [
+            "Vanderbilt",
+            "Stanford",
+            "Oregon",
+            "UNLV",
+            "San Diego State",
+            "New Mexico",
+            "San José State",
+            "Wyoming"
+        ]
+    },
+    "Florida": {
+        "wins": [
+            "McNeese",
+            "Tennessee",
+            "Charlotte",
+            "Vanderbilt",
+            "South Carolina"
+        ],
+        "losses": [
+            "Utah",
+            "Kentucky",
+            "Georgia",
+            "Arkansas",
+            "LSU",
+            "Missouri",
+            "Florida State"
+        ]
+    },
+    "Minnesota": {
+        "wins": [
+            "Nebraska",
+            "Eastern Michigan",
+            "Louisiana",
+            "Iowa",
+            "Michigan State"
+        ],
+        "losses": [
+            "North Carolina",
+            "Northwestern",
+            "Michigan",
+            "Illinois",
+            "Purdue",
+            "Ohio State",
+            "Wisconsin"
+        ]
+    },
+    "Nebraska": {
+        "wins": [
+            "Northern Illinois",
+            "Louisiana Tech",
+            "Illinois",
+            "Northwestern",
+            "Purdue"
+        ],
+        "losses": [
+            "Minnesota",
+            "Colorado",
+            "Michigan",
+            "Michigan State",
+            "Maryland",
+            "Wisconsin",
+            "Iowa"
+        ]
+    },
+    "Central Michigan": {
+        "wins": [
+            "New Hampshire",
+            "South Alabama",
+            "Eastern Michigan",
+            "Akron",
+            "Northern Illinois"
+        ],
+        "losses": [
+            "Michigan State",
+            "Notre Dame",
+            "Buffalo",
+            "Ball State",
+            "Western Michigan",
+            "Ohio",
+            "Toledo"
+        ]
+    },
+    "TCU": {
+        "wins": [
+            "Nicholls",
+            "Houston",
+            "SMU",
+            "BYU",
+            "Baylor"
+        ],
+        "losses": [
+            "Colorado",
+            "West Virginia",
+            "Iowa State",
+            "Kansas State",
+            "Texas Tech",
+            "Texas",
+            "Oklahoma"
+        ]
+    },
+    "North Texas": {
+        "wins": [
+            "Louisiana Tech",
+            "Abilene Christian",
+            "Temple",
+            "Tulsa",
+            "UAB"
+        ],
+        "losses": [
+            "California",
+            "Florida International",
+            "Navy",
+            "Tulane",
+            "Memphis",
+            "UT San Antonio",
+            "SMU"
+        ]
+    },
+    "Mississippi State": {
+        "wins": [
+            "Southeastern Louisiana",
+            "Arizona",
+            "Western Michigan",
+            "Arkansas",
+            "Southern Mississippi"
+        ],
+        "losses": [
+            "LSU",
+            "South Carolina",
+            "Alabama",
+            "Auburn",
+            "Kentucky",
+            "Texas A&M",
+            "Ole Miss"
+        ]
+    },
+    "Colorado State": {
+        "wins": [
+            "Middle Tennessee",
+            "Utah Tech",
+            "Boise State",
+            "San Diego State",
+            "Nevada"
+        ],
+        "losses": [
+            "Washington State",
+            "Colorado",
+            "Utah State",
+            "UNLV",
+            "Air Force",
+            "Wyoming",
+            "Hawai'i"
+        ]
+    },
+    "Washington State": {
+        "wins": [
+            "Colorado State",
+            "Wisconsin",
+            "Northern Colorado",
+            "Oregon State",
+            "Colorado"
+        ],
+        "losses": [
+            "UCLA",
+            "Arizona",
+            "Oregon",
+            "Arizona State",
+            "Stanford",
+            "California",
+            "Washington"
+        ]
+    },
+    "Army": {
+        "wins": [
+            "Delaware State",
+            "UT San Antonio",
+            "Air Force",
+            "Holy Cross",
+            "Coastal Carolina"
+        ],
+        "losses": [
+            "Louisiana Monroe",
+            "Syracuse",
+            "Boston College",
+            "Troy",
+            "LSU",
+            "UMass",
+            "Navy"
+        ]
+    },
+    "Illinois": {
+        "wins": [
+            "Toledo",
+            "Florida Atlantic",
+            "Maryland",
+            "Minnesota",
+            "Indiana"
+        ],
+        "losses": [
+            "Kansas",
+            "Penn State",
+            "Purdue",
+            "Nebraska",
+            "Wisconsin",
+            "Iowa",
+            "Northwestern"
+        ]
+    },
+    "South Carolina": {
+        "wins": [
+            "Furman",
+            "Mississippi State",
+            "Jacksonville State",
+            "Vanderbilt",
+            "Kentucky"
+        ],
+        "losses": [
+            "North Carolina",
+            "Georgia",
+            "Tennessee",
+            "Florida",
+            "Missouri",
+            "Texas A&M",
+            "Clemson"
+        ]
+    },
+    "BYU": {
+        "wins": [
+            "Sam Houston State",
+            "Southern Utah",
+            "Arkansas",
+            "Cincinnati",
+            "Texas Tech"
+        ],
+        "losses": [
+            "Kansas",
+            "TCU",
+            "Texas",
+            "West Virginia",
+            "Iowa State",
+            "Oklahoma",
+            "Oklahoma State"
+        ]
+    },
+    "San Diego State": {
+        "wins": [
+            "Ohio",
+            "Idaho State",
+            "Hawai'i",
+            "Fresno State"
+        ],
+        "losses": [
+            "UCLA",
+            "Oregon State",
+            "Boise State",
+            "Air Force",
+            "Nevada",
+            "Utah State",
+            "Colorado State",
+            "San José State"
+        ]
+    },
+    "Florida International": {
+        "wins": [
+            "Maine",
+            "North Texas",
+            "Connecticut",
+            "Sam Houston State"
+        ],
+        "losses": [
+            "Louisiana Tech",
+            "Liberty",
+            "New Mexico State",
+            "UTEP",
+            "Jacksonville State",
+            "Middle Tennessee",
+            "Arkansas",
+            "Western Kentucky"
+        ]
+    },
+    "Western Michigan": {
+        "wins": [
+            "St Francis (PA)",
+            "Ball State",
+            "Eastern Michigan",
+            "Central Michigan"
+        ],
+        "losses": [
+            "Syracuse",
+            "Iowa",
+            "Toledo",
+            "Mississippi State",
+            "Miami (OH)",
+            "Ohio",
+            "Northern Illinois",
+            "Bowling Green"
+        ]
+    },
+    "Wake Forest": {
+        "wins": [
+            "Elon",
+            "Vanderbilt",
+            "Old Dominion",
+            "Pittsburgh"
+        ],
+        "losses": [
+            "Georgia Tech",
+            "Clemson",
+            "Virginia Tech",
+            "Florida State",
+            "Duke",
+            "NC State",
+            "Notre Dame",
+            "Syracuse"
+        ]
+    },
+    "Tulsa": {
+        "wins": [
+            "Arkansas-Pine Bluff",
+            "Northern Illinois",
+            "Temple",
+            "East Carolina"
+        ],
+        "losses": [
+            "Washington",
+            "Oklahoma",
+            "Florida Atlantic",
+            "Rice",
+            "SMU",
+            "Charlotte",
+            "Tulane",
+            "North Texas"
+        ]
+    },
+    "UAB": {
+        "wins": [
+            "North Carolina A&T",
+            "South Florida",
+            "Florida Atlantic",
+            "Temple"
+        ],
+        "losses": [
+            "Georgia Southern",
+            "Louisiana",
+            "Georgia",
+            "Tulane",
+            "UT San Antonio",
+            "Memphis",
+            "Navy",
+            "North Texas"
+        ]
+    },
+    "Michigan State": {
+        "wins": [
+            "Central Michigan",
+            "Richmond",
+            "Nebraska",
+            "Indiana"
+        ],
+        "losses": [
+            "Washington",
+            "Maryland",
+            "Iowa",
+            "Rutgers",
+            "Michigan",
+            "Minnesota",
+            "Ohio State",
+            "Penn State"
+        ]
+    },
+    "Ball State": {
+        "wins": [
+            "Indiana State",
+            "Central Michigan",
+            "Northern Illinois",
+            "Kent State"
+        ],
+        "losses": [
+            "Kentucky",
+            "Georgia",
+            "Georgia Southern",
+            "Western Michigan",
+            "Eastern Michigan",
+            "Toledo",
+            "Bowling Green",
+            "Miami (OH)"
+        ]
+    },
+    "Purdue": {
+        "wins": [
+            "Virginia Tech",
+            "Illinois",
+            "Minnesota",
+            "Indiana"
+        ],
+        "losses": [
+            "Fresno State",
+            "Syracuse",
+            "Wisconsin",
+            "Iowa",
+            "Ohio State",
+            "Nebraska",
+            "Michigan",
+            "Northwestern"
+        ]
+    },
+    "Colorado": {
+        "wins": [
+            "TCU",
+            "Nebraska",
+            "Colorado State",
+            "Arizona State"
+        ],
+        "losses": [
+            "Oregon",
+            "USC",
+            "Stanford",
+            "UCLA",
+            "Oregon State",
+            "Arizona",
+            "Washington State",
+            "Utah"
+        ]
+    },
+    "Arkansas": {
+        "wins": [
+            "Western Carolina",
+            "Kent State",
+            "Florida",
+            "Florida International"
+        ],
+        "losses": [
+            "BYU",
+            "LSU",
+            "Texas A&M",
+            "Ole Miss",
+            "Alabama",
+            "Mississippi State",
+            "Auburn",
+            "Missouri"
+        ]
+    },
+    "Florida Atlantic": {
+        "wins": [
+            "Monmouth",
+            "Tulsa",
+            "South Florida",
+            "Charlotte"
+        ],
+        "losses": [
+            "Ohio",
+            "Clemson",
+            "Illinois",
+            "UT San Antonio",
+            "UAB",
+            "East Carolina",
+            "Tulane",
+            "Rice"
+        ]
+    },
+    "New Mexico": {
+        "wins": [
+            "Tennessee Tech",
+            "UMass",
+            "Hawai'i",
+            "Fresno State"
+        ],
+        "losses": [
+            "Texas A&M",
+            "New Mexico State",
+            "Wyoming",
+            "San José State",
+            "Nevada",
+            "UNLV",
+            "Boise State",
+            "Utah State"
+        ]
+    },
+    "Houston": {
+        "wins": [
+            "UT San Antonio",
+            "Sam Houston State",
+            "West Virginia",
+            "Baylor"
+        ],
+        "losses": [
+            "Rice",
+            "TCU",
+            "Texas Tech",
+            "Texas",
+            "Kansas State",
+            "Cincinnati",
+            "Oklahoma State",
+            "UCF"
+        ]
+    },
+    "Middle Tennessee": {
+        "wins": [
+            "Murray State",
+            "Louisiana Tech",
+            "Florida International",
+            "UTEP"
+        ],
+        "losses": [
+            "Alabama",
+            "Missouri",
+            "Colorado State",
+            "Western Kentucky",
+            "Jacksonville State",
+            "Liberty",
+            "New Mexico State",
+            "Sam Houston State"
+        ]
+    },
+    "UTEP": {
+        "wins": [
+            "Incarnate Word",
+            "Florida International",
+            "Sam Houston State"
+        ],
+        "losses": [
+            "Jacksonville State",
+            "Northwestern",
+            "Arizona",
+            "UNLV",
+            "Louisiana Tech",
+            "New Mexico State",
+            "Western Kentucky",
+            "Middle Tennessee",
+            "Liberty"
+        ]
+    },
+    "UMass": {
+        "wins": [
+            "New Mexico State",
+            "Army",
+            "Merrimack"
+        ],
+        "losses": [
+            "Auburn",
+            "Miami (OH)",
+            "Eastern Michigan",
+            "New Mexico",
+            "Arkansas State",
+            "Toledo",
+            "Penn State",
+            "Liberty",
+            "Connecticut"
+        ]
+    },
+    "Louisiana Tech": {
+        "wins": [
+            "Florida International",
+            "Northwestern State",
+            "UTEP"
+        ],
+        "losses": [
+            "SMU",
+            "North Texas",
+            "Nebraska",
+            "Western Kentucky",
+            "Middle Tennessee",
+            "New Mexico State",
+            "Liberty",
+            "Sam Houston State",
+            "Jacksonville State"
+        ]
+    },
+    "Connecticut": {
+        "wins": [
+            "Rice",
+            "Sacred Heart",
+            "UMass"
+        ],
+        "losses": [
+            "NC State",
+            "Georgia State",
+            "Florida International",
+            "Duke",
+            "Utah State",
+            "South Florida",
+            "Boston College",
+            "Tennessee",
+            "James Madison"
+        ]
+    },
+    "Arizona State": {
+        "wins": [
+            "Southern Utah",
+            "Washington State",
+            "UCLA"
+        ],
+        "losses": [
+            "Oklahoma State",
+            "Fresno State",
+            "USC",
+            "California",
+            "Colorado",
+            "Washington",
+            "Utah",
+            "Oregon",
+            "Arizona"
+        ]
+    },
+    "Stanford": {
+        "wins": [
+            "Hawai'i",
+            "Colorado",
+            "Washington State"
+        ],
+        "losses": [
+            "USC",
+            "Sacramento State",
+            "Arizona",
+            "Oregon",
+            "UCLA",
+            "Washington",
+            "Oregon State",
+            "California",
+            "Notre Dame"
+        ]
+    },
+    "Virginia": {
+        "wins": [
+            "William & Mary",
+            "North Carolina",
+            "Duke"
+        ],
+        "losses": [
+            "Tennessee",
+            "James Madison",
+            "Maryland",
+            "NC State",
+            "Boston College",
+            "Miami",
+            "Georgia Tech",
+            "Louisville",
+            "Virginia Tech"
+        ]
+    },
+    "Temple": {
+        "wins": [
+            "Akron",
+            "Norfolk State",
+            "Navy"
+        ],
+        "losses": [
+            "Rutgers",
+            "Miami",
+            "Tulsa",
+            "UT San Antonio",
+            "North Texas",
+            "SMU",
+            "South Florida",
+            "UAB",
+            "Memphis"
+        ]
+    },
+    "Indiana": {
+        "wins": [
+            "Indiana State",
+            "Akron",
+            "Wisconsin"
+        ],
+        "losses": [
+            "Ohio State",
+            "Louisville",
+            "Maryland",
+            "Michigan",
+            "Rutgers",
+            "Penn State",
+            "Illinois",
+            "Michigan State",
+            "Purdue"
+        ]
+    },
+    "Buffalo": {
+        "wins": [
+            "Akron",
+            "Central Michigan",
+            "Kent State"
+        ],
+        "losses": [
+            "Wisconsin",
+            "Fordham",
+            "Liberty",
+            "Louisiana",
+            "Bowling Green",
+            "Toledo",
+            "Ohio",
+            "Miami (OH)",
+            "Eastern Michigan"
+        ]
+    },
+    "Pittsburgh": {
+        "wins": [
+            "Wofford",
+            "Louisville",
+            "Boston College"
+        ],
+        "losses": [
+            "Cincinnati",
+            "West Virginia",
+            "North Carolina",
+            "Virginia Tech",
+            "Wake Forest",
+            "Notre Dame",
+            "Florida State",
+            "Syracuse",
+            "Duke"
+        ]
+    },
+    "Cincinnati": {
+        "wins": [
+            "Eastern Kentucky",
+            "Pittsburgh",
+            "Houston"
+        ],
+        "losses": [
+            "Miami (OH)",
+            "Oklahoma",
+            "BYU",
+            "Iowa State",
+            "Baylor",
+            "Oklahoma State",
+            "UCF",
+            "West Virginia",
+            "Kansas"
+        ]
+    },
+    "Charlotte": {
+        "wins": [
+            "South Carolina State",
+            "East Carolina",
+            "Tulsa"
+        ],
+        "losses": [
+            "Maryland",
+            "Georgia State",
+            "Florida",
+            "SMU",
+            "Navy",
+            "Florida Atlantic",
+            "Memphis",
+            "Rice",
+            "South Florida"
+        ]
+    },
+    "Southern Mississippi": {
+        "wins": [
+            "Alcorn State",
+            "Louisiana Monroe",
+            "Louisiana"
+        ],
+        "losses": [
+            "Florida State",
+            "Tulane",
+            "Arkansas State",
+            "Texas State",
+            "Old Dominion",
+            "South Alabama",
+            "Appalachian State",
+            "Mississippi State",
+            "Troy"
+        ]
+    },
+    "Baylor": {
+        "wins": [
+            "Long Island University",
+            "UCF",
+            "Cincinnati"
+        ],
+        "losses": [
+            "Texas State",
+            "Utah",
+            "Texas",
+            "Texas Tech",
+            "Iowa State",
+            "Houston",
+            "Kansas State",
+            "TCU",
+            "West Virginia"
+        ]
+    },
+    "Sam Houston State": {
+        "wins": [
+            "Kennesaw State",
+            "Louisiana Tech",
+            "Middle Tennessee"
+        ],
+        "losses": [
+            "BYU",
+            "Air Force",
+            "Houston",
+            "Jacksonville State",
+            "Liberty",
+            "New Mexico State",
+            "Florida International",
+            "UTEP",
+            "Western Kentucky"
+        ]
+    },
+    "Vanderbilt": {
+        "wins": [
+            "Hawai'i",
+            "Alabama A&M"
+        ],
+        "losses": [
+            "Wake Forest",
+            "UNLV",
+            "Kentucky",
+            "Missouri",
+            "Florida",
+            "Georgia",
+            "Ole Miss",
+            "Auburn",
+            "South Carolina",
+            "Tennessee"
+        ]
+    },
+    "East Carolina": {
+        "wins": [
+            "Gardner-Webb",
+            "Florida Atlantic"
+        ],
+        "losses": [
+            "Michigan",
+            "Marshall",
+            "Appalachian State",
+            "Rice",
+            "SMU",
+            "Charlotte",
+            "UT San Antonio",
+            "Tulane",
+            "Navy",
+            "Tulsa"
+        ]
+    },
+    "Akron": {
+        "wins": [
+            "Morgan State",
+            "Kent State"
+        ],
+        "losses": [
+            "Temple",
+            "Kentucky",
+            "Indiana",
+            "Buffalo",
+            "Northern Illinois",
+            "Central Michigan",
+            "Bowling Green",
+            "Miami (OH)",
+            "Eastern Michigan",
+            "Ohio"
+        ]
+    },
+    "Nevada": {
+        "wins": [
+            "San Diego State",
+            "New Mexico"
+        ],
+        "losses": [
+            "USC",
+            "Idaho",
+            "Kansas",
+            "Texas State",
+            "Fresno State",
+            "UNLV",
+            "Hawai'i",
+            "Utah State",
+            "Colorado State",
+            "Wyoming"
+        ]
+    },
+    "Louisiana Monroe": {
+        "wins": [
+            "Army",
+            "Lamar"
+        ],
+        "losses": [
+            "Texas A&M",
+            "Appalachian State",
+            "South Alabama",
+            "Texas State",
+            "Georgia Southern",
+            "Arkansas State",
+            "Southern Mississippi",
+            "Troy",
+            "Ole Miss",
+            "Louisiana"
+        ]
+    },
+    "Kent State": {
+        "wins": [
+            "Central Connecticut"
+        ],
+        "losses": [
+            "UCF",
+            "Arkansas",
+            "Fresno State",
+            "Miami (OH)",
+            "Ohio",
+            "Eastern Michigan",
+            "Buffalo",
+            "Akron",
+            "Bowling Green",
+            "Ball State",
+            "Northern Illinois"
+        ]
+    },
+    "Southern Illinois": {
+        "wins": [
+            "Northern Illinois"
+        ],
+        "losses": []
+    },
+    "Fordham": {
+        "wins": [
+            "Buffalo"
+        ],
+        "losses": []
+    },
+    "Idaho": {
+        "wins": [
+            "Nevada"
+        ],
+        "losses": [
+            "California"
+        ]
+    },
+    "Sacramento State": {
+        "wins": [
+            "Stanford"
+        ],
+        "losses": []
+    },
+    "St Francis (PA)": {
+        "wins": [],
+        "losses": [
+            "Western Michigan"
+        ]
+    },
+    "Elon": {
+        "wins": [],
+        "losses": [
+            "Wake Forest"
+        ]
+    },
+    "Rhode Island": {
+        "wins": [],
+        "losses": [
+            "Georgia State"
+        ]
+    },
+    "South Dakota": {
+        "wins": [],
+        "losses": [
+            "Missouri"
+        ]
+    },
+    "Arkansas-Pine Bluff": {
+        "wins": [],
+        "losses": [
+            "Tulsa"
+        ]
+    },
+    "North Carolina A&T": {
+        "wins": [],
+        "losses": [
+            "UAB"
+        ]
+    },
+    "Southern Utah": {
+        "wins": [],
+        "losses": [
+            "Arizona State",
+            "BYU"
+        ]
+    },
+    "Howard": {
+        "wins": [],
+        "losses": [
+            "Eastern Michigan",
+            "Northwestern"
+        ]
+    },
+    "Missouri State": {
+        "wins": [],
+        "losses": [
+            "Kansas"
+        ]
+    },
+    "Robert Morris": {
+        "wins": [],
+        "losses": [
+            "Air Force"
+        ]
+    },
+    "Long Island University": {
+        "wins": [],
+        "losses": [
+            "Ohio",
+            "Baylor"
+        ]
+    },
+    "Northern Iowa": {
+        "wins": [],
+        "losses": [
+            "Iowa State"
+        ]
+    },
+    "Mercer": {
+        "wins": [],
+        "losses": [
+            "Ole Miss"
+        ]
+    },
+    "East Tennessee State": {
+        "wins": [],
+        "losses": [
+            "Jacksonville State"
+        ]
+    },
+    "Portland State": {
+        "wins": [],
+        "losses": [
+            "Oregon",
+            "Wyoming"
+        ]
+    },
+    "Towson": {
+        "wins": [],
+        "losses": [
+            "Maryland"
+        ]
+    },
+    "Tennessee State": {
+        "wins": [],
+        "losses": [
+            "Notre Dame"
+        ]
+    },
+    "Wofford": {
+        "wins": [],
+        "losses": [
+            "Pittsburgh"
+        ]
+    },
+    "Gardner-Webb": {
+        "wins": [],
+        "losses": [
+            "Appalachian State",
+            "East Carolina"
+        ]
+    },
+    "Eastern Kentucky": {
+        "wins": [],
+        "losses": [
+            "Cincinnati",
+            "Kentucky"
+        ]
+    },
+    "Colgate": {
+        "wins": [],
+        "losses": [
+            "Syracuse"
+        ]
+    },
+    "Southeastern Louisiana": {
+        "wins": [],
+        "losses": [
+            "Mississippi State",
+            "South Alabama"
+        ]
+    },
+    "Bryant": {
+        "wins": [],
+        "losses": [
+            "UNLV"
+        ]
+    },
+    "Western Carolina": {
+        "wins": [],
+        "losses": [
+            "Arkansas"
+        ]
+    },
+    "UT Martin": {
+        "wins": [],
+        "losses": [
+            "Georgia"
+        ]
+    },
+    "Monmouth": {
+        "wins": [],
+        "losses": [
+            "Florida Atlantic"
+        ]
+    },
+    "South Carolina State": {
+        "wins": [],
+        "losses": [
+            "Charlotte",
+            "Georgia Tech"
+        ]
+    },
+    "Albany": {
+        "wins": [],
+        "losses": [
+            "Marshall",
+            "Hawai'i"
+        ]
+    },
+    "Bucknell": {
+        "wins": [],
+        "losses": [
+            "James Madison"
+        ]
+    },
+    "The Citadel": {
+        "wins": [],
+        "losses": [
+            "Georgia Southern"
+        ]
+    },
+    "Maine": {
+        "wins": [],
+        "losses": [
+            "Florida International"
+        ]
+    },
+    "Central Arkansas": {
+        "wins": [],
+        "losses": [
+            "Oklahoma State"
+        ]
+    },
+    "Stephen F. Austin": {
+        "wins": [],
+        "losses": [
+            "Troy"
+        ]
+    },
+    "Alabama A&M": {
+        "wins": [],
+        "losses": [
+            "Vanderbilt"
+        ]
+    },
+    "Alcorn State": {
+        "wins": [],
+        "losses": [
+            "Southern Mississippi"
+        ]
+    },
+    "Bethune-Cookman": {
+        "wins": [],
+        "losses": [
+            "Memphis",
+            "Miami"
+        ]
+    },
+    "Southeast Missouri State": {
+        "wins": [],
+        "losses": [
+            "Kansas State"
+        ]
+    },
+    "Northwestern State": {
+        "wins": [],
+        "losses": [
+            "Louisiana",
+            "Louisiana Tech"
+        ]
+    },
+    "Incarnate Word": {
+        "wins": [],
+        "losses": [
+            "UTEP"
+        ]
+    },
+    "Western Illinois": {
+        "wins": [],
+        "losses": [
+            "New Mexico State"
+        ]
+    },
+    "Northern Arizona": {
+        "wins": [],
+        "losses": [
+            "Arizona"
+        ]
+    },
+    "Idaho State": {
+        "wins": [],
+        "losses": [
+            "San Diego State",
+            "Utah State"
+        ]
+    },
+    "Murray State": {
+        "wins": [],
+        "losses": [
+            "Louisville",
+            "Middle Tennessee"
+        ]
+    },
+    "Indiana State": {
+        "wins": [],
+        "losses": [
+            "Indiana",
+            "Ball State"
+        ]
+    },
+    "Holy Cross": {
+        "wins": [],
+        "losses": [
+            "Boston College",
+            "Army"
+        ]
+    },
+    "Delaware": {
+        "wins": [],
+        "losses": [
+            "Penn State"
+        ]
+    },
+    "Youngstown State": {
+        "wins": [],
+        "losses": [
+            "Ohio State"
+        ]
+    },
+    "Delaware State": {
+        "wins": [],
+        "losses": [
+            "Army",
+            "Miami (OH)"
+        ]
+    },
+    "New Hampshire": {
+        "wins": [],
+        "losses": [
+            "Central Michigan"
+        ]
+    },
+    "Eastern Illinois": {
+        "wins": [],
+        "losses": [
+            "Bowling Green"
+        ]
+    },
+    "Charleston Southern": {
+        "wins": [],
+        "losses": [
+            "Clemson"
+        ]
+    },
+    "Texas Southern": {
+        "wins": [],
+        "losses": [
+            "Toledo",
+            "Rice"
+        ]
+    },
+    "Wagner": {
+        "wins": [],
+        "losses": [
+            "Navy",
+            "Rutgers"
+        ]
+    },
+    "Richmond": {
+        "wins": [],
+        "losses": [
+            "Michigan State"
+        ]
+    },
+    "Cal Poly": {
+        "wins": [],
+        "losses": [
+            "San José State"
+        ]
+    },
+    "Austin Peay": {
+        "wins": [],
+        "losses": [
+            "Tennessee"
+        ]
+    },
+    "Duquesne": {
+        "wins": [],
+        "losses": [
+            "West Virginia",
+            "Coastal Carolina"
+        ]
+    },
+    "Lafayette": {
+        "wins": [],
+        "losses": [
+            "Duke"
+        ]
+    },
+    "Morgan State": {
+        "wins": [],
+        "losses": [
+            "Akron"
+        ]
+    },
+    "Houston Christian": {
+        "wins": [],
+        "losses": [
+            "Western Kentucky"
+        ]
+    },
+    "Florida A&M": {
+        "wins": [],
+        "losses": [
+            "South Florida"
+        ]
+    },
+    "McNeese": {
+        "wins": [],
+        "losses": [
+            "Florida"
+        ]
+    },
+    "Furman": {
+        "wins": [],
+        "losses": [
+            "South Carolina"
+        ]
+    },
+    "Grambling": {
+        "wins": [],
+        "losses": [
+            "LSU"
+        ]
+    },
+    "Nicholls": {
+        "wins": [],
+        "losses": [
+            "TCU",
+            "Tulane"
+        ]
+    },
+    "Lamar": {
+        "wins": [],
+        "losses": [
+            "Louisiana Monroe"
+        ]
+    },
+    "Tennessee Tech": {
+        "wins": [],
+        "losses": [
+            "New Mexico"
+        ]
+    },
+    "Eastern Washington": {
+        "wins": [],
+        "losses": [
+            "Fresno State"
+        ]
+    },
+    "UC Davis": {
+        "wins": [],
+        "losses": [
+            "Oregon State"
+        ]
+    },
+    "Central Connecticut": {
+        "wins": [],
+        "losses": [
+            "Kent State"
+        ]
+    },
+    "North Dakota": {
+        "wins": [],
+        "losses": [
+            "Boise State"
+        ]
+    },
+    "Norfolk State": {
+        "wins": [],
+        "losses": [
+            "Temple"
+        ]
+    },
+    "VMI": {
+        "wins": [],
+        "losses": [
+            "NC State"
+        ]
+    },
+    "Weber State": {
+        "wins": [],
+        "losses": [
+            "Utah"
+        ]
+    },
+    "Northern Colorado": {
+        "wins": [],
+        "losses": [
+            "Washington State"
+        ]
+    },
+    "North Carolina Central": {
+        "wins": [],
+        "losses": [
+            "UCLA"
+        ]
+    },
+    "Villanova": {
+        "wins": [],
+        "losses": [
+            "UCF"
+        ]
+    },
+    "Prairie View": {
+        "wins": [],
+        "losses": [
+            "SMU"
+        ]
+    },
+    "Tarleton State": {
+        "wins": [],
+        "losses": [
+            "Texas Tech"
+        ]
+    },
+    "Stony Brook": {
+        "wins": [],
+        "losses": [
+            "Arkansas State"
+        ]
+    },
+    "Samford": {
+        "wins": [],
+        "losses": [
+            "Auburn"
+        ]
+    },
+    "Jackson State": {
+        "wins": [],
+        "losses": [
+            "Texas State"
+        ]
+    },
+    "Texas A&M-Commerce": {
+        "wins": [],
+        "losses": [
+            "Old Dominion"
+        ]
+    },
+    "Utah Tech": {
+        "wins": [],
+        "losses": [
+            "Colorado State"
+        ]
+    },
+    "Abilene Christian": {
+        "wins": [],
+        "losses": [
+            "North Texas",
+            "Texas A&M"
+        ]
+    },
+    "William & Mary": {
+        "wins": [],
+        "losses": [
+            "Virginia"
+        ]
+    },
+    "Campbell": {
+        "wins": [],
+        "losses": [
+            "North Carolina"
+        ]
+    },
+    "Kennesaw State": {
+        "wins": [],
+        "losses": [
+            "Sam Houston State"
+        ]
+    },
+    "Merrimack": {
+        "wins": [],
+        "losses": [
+            "UMass"
+        ]
+    },
+    "Chattanooga": {
+        "wins": [],
+        "losses": [
+            "Alabama"
+        ]
+    },
+    "Sacred Heart": {
+        "wins": [],
+        "losses": [
+            "Connecticut"
+        ]
+    },
+    "North Alabama": {
+        "wins": [],
+        "losses": [
+            "Florida State"
+        ]
+    }
+}
