@@ -47,8 +47,9 @@ const buildProbabilityMap = (map) => {
     return probabilityMap;
 }
 
-// Calculating individual probabilities 
-// with respect to opponent probabilities
+// Calculating individual probabilities with respect to opponent probabilities.
+// I had to set the initial denominator to 1 because undefeated teams result in dividing by 0.
+// That isn't strictly in line with the model, but that's just CFB for ya.
 const getIndividualProbability = (team, probabilityMap, prob) => {
     let numerator = 0, denominator = 1;
     team['wins'].forEach(el => {
